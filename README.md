@@ -12,9 +12,9 @@
 * **All System : https://github.com/symbz/Aero/wiki/Aero-Guide#usage**
 
 **Parameters :**
-* **Airline name e.g. American Airlines**
-* **Flight number e.g. AA1004**
-* **Flight date e.g. 2021-10-17**
+* **Airline name e.g.** **_American Airlines_**
+* **Flight number e.g.** **_AA1004_**
+* **Flight date e.g.** **_2021-10-17_**
 
 ## Demo
 * **Aero finds flight details :**
