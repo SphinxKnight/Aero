@@ -3,4 +3,4 @@
 
 ## Installation
 **Read Aero Installation Guide At :**
-* **https://github.com/symbz/Aero/wiki/Aero-Wiki**
+* **https://github.com/symbz/Aero/wiki/Aero-Installation-Guide**
