@@ -3,4 +3,10 @@
 
 ## Installation
 **Read Aero Installation Guide At :**
-* **https://github.com/symbz/Aero/wiki/Aero-Installation-Guide**
+* **Windows : https://github.com/symbz/Aero/wiki/Aero-Guide#for-windows**
+* **MacOs : https://github.com/symbz/Aero/wiki/Aero-Guide#for-macos**
+* **Debian-Based Linux : https://github.com/symbz/Aero/wiki/Aero-Guide#for-debian-based-linux-distributions**
+
+## Usage
+**Read Aero Usage Guide At :**
+* **All System : https://github.com/symbz/Aero/wiki/Aero-Guide#usage**
