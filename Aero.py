@@ -33,7 +33,7 @@ try:
     date = input()
 
     if opt == '1':
-        print(f'\n[ {c}→{r} ] Finding flight details\n')
+        print(f'\n[ {c}#{r} ] Finding flight details\n')
         time.sleep(1)
         other(name, number, date)
         flight(name, number, date)
@@ -41,44 +41,44 @@ try:
         print()
 
     if opt == '2':
-        print(f'\n[ {c}→{r} ] Finding aircraft details\n')
+        print(f'\n[ {c}#{r} ] Finding aircraft details\n')
         time.sleep(1)
         aircraft(name, number, date)
         print()
 
     if opt == '6':
-        print(f'\n[ {c}→{r} ] Finding flight route\n')
+        print(f'\n[ {c}#{r} ] Finding flight route\n')
         time.sleep(1)
         duration(name, number, date)
         print()
 
     if opt == '4':
-        print(f'\n[ {c}→{r} ] Finding departure details\n')
+        print(f'\n[ {c}#{r} ] Finding departure details\n')
         time.sleep(1)
         departure(name, number, date)
         print()
 
     if opt == '5':
-        print(f'\n[ {c}→{r} ] Finding arrival details\n')
+        print(f'\n[ {c}#{r} ] Finding arrival details\n')
         time.sleep(1)
         arrival(name, number, date)
         print()
 
     if opt == '3':
-        print(f'\n[ {c}→{r} ] Finding airline details\n')
+        print(f'\n[ {c}#{r} ] Finding airline details\n')
         time.sleep(1)
         detaild(name, number)
         print()
 
 
 except KeyboardInterrupt:
-    print(f'[ {Fore.RED}*{r} ] Ctrl+C pressed\n')
+    print(f'[ {R}*{r} ] Ctrl+C pressed\n')
 
 except requests.exceptions:
-    print(f'[ {Fore.RED}*{r} ] No internet\n')
+    print(f'[ {R}*{r} ] No internet\n')
 
 except json.decoder.JSONDecodeError:
-    print(f'[ {Fore.RED}*{r} ] Decode error\n')
+    print(f'[ {R}*{r} ] Decode error\n')
 
 except IndexError and TypeError and ValueError and AttributeError:
-    print(f'[ {Fore.RED}*{r} ] Input error\n')
+    print(f'[ {R}*{r} ] Input error\n')
