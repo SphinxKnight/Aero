@@ -20,13 +20,7 @@
 ```
 python Aero.py
 ```
-**Then input the following parameters :**
-* **Airline name e.g.** **_American Airlines_**.
-* **Flight number e.g.** **_AA1004_**.
-* **Flight date e.g.** **_2021-10-17_**.
-
-## Demo
-* **Aero finds flight details :**
+* **Demo :**
 <p align="center">
 <img src="src/demo.png">
 </p>
