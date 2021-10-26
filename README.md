@@ -11,6 +11,17 @@
 **Read Aero Usage Guide At :**
 * **All System : https://github.com/symbz/Aero/wiki/Aero-Guide#usage**
 
+**Parameters :**
+* **Airline name e.g. American Airlines**
+* **Flight number e.g. AA1004**
+* **Flight date e.g. 2021-10-17**
+
+## Demo
+* **Aero finds flight details :**
+<p align="center">
+<img src="src/demo.png">
+</p>
+
 ## Sponsors
 * **Aviability : https://aviability.com/**
 * **Flight Status Info : https://flight-status.info/**
