@@ -10,3 +10,7 @@
 ## Usage
 **Read Aero Usage Guide At :**
 * **All System : https://github.com/symbz/Aero/wiki/Aero-Guide#usage**
+
+## Sponsors
+* **Aviability : https://aviability.com/**
+* **Flight Status Info : https://flight-status.info/**
