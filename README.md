@@ -16,10 +16,11 @@
 * **Debian-Based Linux : https://github.com/symbz/Aero/wiki/Aero-Guide#for-debian-based-linux-distributions.**
 
 ## Usage
-**Read Aero Usage Guide At :**
-* **All System : https://github.com/symbz/Aero/wiki/Aero-Guide#usage**
-
-**Parameters :**
+* **Use Aero by typing :**
+```
+python Aero.py
+```
+**Then input the following parameters :**
 * **Airline name e.g.** **_American Airlines_**.
 * **Flight number e.g.** **_AA1004_**.
 * **Flight date e.g.** **_2021-10-17_**.
