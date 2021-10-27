@@ -7,18 +7,15 @@
 * **Aircraft lookup**
 * **Airline lookup**
 * **Airport lookup**
+* **Route lookup**
+* **Departure & Arrival lookup**
 
-**Other :**
-* **No root.**
-* **Past 15-16 days flight data.**
-* **Accurate details.**
-* **Worldwide coverage.**
 
 ## Installation
 **Read Aero Installation Guide At :**
-* **Windows : https://github.com/symbz/Aero/wiki/Aero-Guide#for-windows.**
-* **MacOs : https://github.com/symbz/Aero/wiki/Aero-Guide#for-macos.**
-* **Debian-Based Linux : https://github.com/symbz/Aero/wiki/Aero-Guide#for-debian-based-linux-distributions.**
+* **Windows : https://github.com/symbz/Aero/wiki/Aero-Guide#for-windows**
+* **MacOs : https://github.com/symbz/Aero/wiki/Aero-Guide#for-macos**
+* **Debian-Based Linux : https://github.com/symbz/Aero/wiki/Aero-Guide#for-debian-based-linux-distributions**
 
 ## Usage
 * **Use Aero by typing :**
