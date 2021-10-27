@@ -4,9 +4,16 @@
 **Aero is an open source airplane intelligence tool. Aero supports more than 13,000 airlines and 250 countries. Any flight worldwide at your fingertips.**
 
 ## Features
-* **No root required.**
-* **Flight details for the past 15-16 days.**
-* **Accurate details provided.**
+**Main :**
+* **Flight lookup**
+* **Aircraft lookup**
+* **Airline lookup**
+* **Airport lookup**
+
+**Other :**
+* **No root.**
+* **Past 15-16 days flight data.**
+* **Accurate details.**
 * **Worldwide coverage.**
 
 ## Installation
